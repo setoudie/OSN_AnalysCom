@@ -9,7 +9,7 @@ from textblob_fr import PatternAnalyzer
 import io
 
 
-# Charger le modèle spaCy
+# Charger le modèle spaCy XXXX 
 @st.cache_resource
 def load_spacy_model():
     return spacy.load("fr_core_news_md")
