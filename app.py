@@ -243,4 +243,4 @@ with st.expander("ℹ️ Guide d'utilisation"):
     """)
 
 st.sidebar.markdown("---")
-st.sidebar.info("Made with ❤️ using Streamlit | v1.0")
+st.sidebar.info("Made with ❤️ by Seny | v1.0")
